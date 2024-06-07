@@ -1,5 +1,5 @@
 Java Subtraction Practice Program
-This repository contains a simple Java program designed to help students practice subtraction. The program generates two single-digit integers and prompts the user to subtract the smaller number from the larger one.
+This repository contains a simple Java program designed to practice subtraction. The program generates two single-digit integers and prompts a user to subtract the smaller number from the larger one.
 
 Program Description
 The program follows these steps:
