@@ -1,7 +1,9 @@
 Java Subtraction Practice Program
+
 This repository contains a simple Java program designed to practice subtraction. The program generates two single-digit integers and prompts a user to subtract the smaller number from the larger one.
 
 Program Description
+
 The program follows these steps:
 1. Generate two single-digit integers, `number1` and `number2`.
 2. If `number1` is less than `number2`, the two numbers are swapped.
